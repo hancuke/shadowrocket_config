@@ -1,0 +1,2 @@
+# shadowrocket_config
+shadowrocket免SS连Google
